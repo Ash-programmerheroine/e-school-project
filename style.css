@@ -1,0 +1,48 @@
+.logo{
+    height: 43px;
+    width: 130.071426px;
+left: 292px;
+top: 45px;
+
+
+}
+.main{
+    height: 576px;
+width: 1440px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background-color: #f0fff0 ;
+
+}
+.margin-from-nav{
+    margin-top: 100px;
+}
+
+.red-color{
+    color: red;
+}
+span{
+   color: #21B573;
+}
+.sign-in-button{
+    background-color: #21B573;
+    height: 33px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    color: white;
+    border:none;
+}
+.get-start-button{
+    background-color: #21B573;
+    color: white;
+    height: 43px;
+    width: 153px;
+    left: 205px;
+    top: 470px;
+    border-radius: 33px;
+    border:none;
+
+}
