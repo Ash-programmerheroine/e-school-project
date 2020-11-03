@@ -1,24 +1,21 @@
 .logo{
     height: 43px;
     width: 130.071426px;
-left: 292px;
-top: 45px;
 
 
 }
-.main{
-    height: 576px;
-width: 1440px;
-left: 0px;
-top: 0px;
-border-radius: 0px;
+.container-fluid{
+    
+
 background-color: #f0fff0 ;
 
 }
 .margin-from-nav{
-    margin-top: 100px;
+    margin-top: 50px;
 }
-
+.section-gap{
+    margin-bottom: 5%;
+}
 .red-color{
     color: red;
 }
@@ -46,3 +43,33 @@ span{
     border:none;
 
 }
+.card{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 6px;
+}
+.img1{
+    height: 85px;
+width: 66px;
+
+}
+.img2{height: 83px;
+    width: 80px;
+    
+    }
+.img3{
+    height: 80px;
+width: 75px;
+
+
+}
+.img4{height: 76px;
+    width: 68px;
+    
+    }
+    .card-size{
+        height: 200px;
+width: 200px;
+
+
+
+    }
