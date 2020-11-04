@@ -47,6 +47,11 @@ span{
     box-shadow: 5px 5px 10px gray;
     border-radius: 6px;
 }
+.without-card{
+    background: #F8FFFB;
+    border-radius: 6px;
+
+}
 .img1{
     height: 85px;
 width: 66px;
@@ -66,10 +71,42 @@ width: 75px;
     width: 68px;
     
     }
-    .card-size{
+.card-size{
         height: 200px;
-width: 200px;
+    width: 200px;
+    padding: 5%;
 
 
 
     }
+.img1, .img2, .img3, .img4{
+        padding: 6%;
+    }
+.card-img-top{
+        padding: 5%;
+    }
+.calender-size{
+        width: 20px;
+    height: 20px;
+    float:left;
+
+    }
+.footer-color{background: #282531;color: white;}
+.text-align{
+        text-align: center;
+    }
+.top-bottom-gap{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+.man-img-size{
+    width: 120px;
+    height: 120px;
+}
+.bullet-none{
+    list-style-type:none;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
